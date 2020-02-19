@@ -285,3 +285,4 @@ Copie algum texto (ctrl + c) e cole utilizando os seguintes casos
   - crtl + v;
   - shift + insert;
   - Utilizando o botão direito do mouse.
+  - Utilizando o click do mouse segurando e arrastando (Drag and drop).
